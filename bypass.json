@@ -1,5 +1,5 @@
 {
   "is_ios_approving": false,
-  "is_android_approving": false,
+  "is_android_approving": true,
   "webview_url": "https://onlineservices.meydan.ae"
 }
